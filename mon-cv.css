@@ -1,0 +1,19 @@
+title {
+    text-align: center;
+    font-size: 45px;
+    padding: 10px;
+}
+#profil {
+    border: solid;
+    border-color: black;
+    float: left;
+    width: 70px;
+    height: 70px;   
+}
+
+#competences {
+    margin-left: 150px;
+    width: 100px;
+    height: 100px;
+}
+

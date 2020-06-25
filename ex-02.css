@@ -1,0 +1,51 @@
+
+body {
+    color: darkslategray;
+    padding-left: 10%;
+    padding-right: 10%;
+}
+h1   {
+    color: #8B0000;
+    font-size: 45px;
+    text-align: center;
+    padding: 10px;
+}
+h3   {
+    color: rgb(178,34,34); font-family: "nasalization-rg.ttf", serif;
+    src: url("nasalization-rg.ttf")format("woff2");
+    font-size: 25px;
+    text-align: center;
+    text-decoration: underline;
+}    
+body {
+    background-color: aliceblue;
+    padding-right: 10%;
+    padding-left: 10%;
+} 
+blockquote {
+    border: solid;
+    border-color: black;
+    border-width: 2px;
+}
+h1  {
+    background-color: rgb(0,0,0,0.2); font-family: "nasalization-rg.ttf", serif;
+    src: url("nasalization-rg.ttf")format("woff2");
+    font-size: 45px;
+    text-decoration: underline;
+    text-decoration-color: black;
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    margin: 0px;
+    margin: 0px;
+} 
+@font-face {
+    font-family: "nasalization-rg.ttf";
+    src: url("nasalization-rg.ttf");
+}
+blockquote {
+    border-style: solid;
+    border-width: 2px;
+    border-color: black;
+}
+  
